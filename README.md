@@ -14,3 +14,11 @@ City Host city
 Sport Sport
 Event Event
 Medal Gold, Silver, Bronze, or NA
+
+Link to data files in Kaggle for the 120 years of Olympic history:
+
+https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history
+
+Link to data files in Kaggle for the integrated Tokyo 2021:
+
+https://www.kaggle.com/piterfm/tokyo-2020-olympics
